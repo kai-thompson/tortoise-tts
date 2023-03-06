@@ -26,7 +26,7 @@ setuptools.setup(
         'einops',
         'unidecode',
         'scipy',
-        'librosa==0.10.0',
+        'librosa==0.8.0',
         'transformers',
         'tokenizers',
     ],
