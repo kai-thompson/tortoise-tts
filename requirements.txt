@@ -7,7 +7,7 @@ progressbar2
 einops
 unidecode
 scipy
-librosa==0.9.0
+librosa==0.8.1
 numpy==1.20.0
 numba==0.48.0
 torchaudio
