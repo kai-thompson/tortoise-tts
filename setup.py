@@ -22,7 +22,7 @@ setuptools.setup(
         'tqdm',
         'rotary_embedding_torch',
         'inflect',
-        'progressbar',
+        'progressbar2',
         'einops',
         'unidecode',
         'scipy',
