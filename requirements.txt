@@ -3,7 +3,7 @@ rotary_embedding_torch
 transformers==4.19
 tokenizers
 inflect
-progressbar
+progressbar2
 einops
 unidecode
 scipy
